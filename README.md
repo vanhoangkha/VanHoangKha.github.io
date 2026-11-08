@@ -1,4 +1,4 @@
-# 🌐 VanHoangKha.github.io
+# VanHoangKha.github.io
 
 Personal website and portfolio for **Van Hoang Kha** — Cloud Security Engineer.
 
